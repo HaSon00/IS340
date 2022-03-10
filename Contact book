@@ -1,3 +1,5 @@
+First Milestone
+
 from tkinter import *
 import sqlite3
 
