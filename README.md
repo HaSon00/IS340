@@ -8,4 +8,3 @@ Project Idea:
   - Modifying contact information, such as deleting and editing
   - Field validation (email and phone number)
 
-First Milestone
