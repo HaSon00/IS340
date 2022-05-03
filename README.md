@@ -12,3 +12,6 @@ Project Description:
 - First Milestone: 
   - Be able to add, edit, and delete a contact
   - additional buttons, view and reset are also added
+
+- Second Milestone:
+  - Added the clear all button to erase all current contact information from the ListBox
